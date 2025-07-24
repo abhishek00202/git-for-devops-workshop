@@ -1,0 +1,16 @@
+ git init
+    git status
+    git add main.tf
+    git status
+    git rm --cached main.tf
+    git status
+    git add .
+    git status
+   git commit -m "first commit"
+   git status
+   git rm -main.tf
+   rm -main.tf
+   rm main.tf
+   git status
+   git restore main.tf
+   git status
